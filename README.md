@@ -6,6 +6,7 @@ A simple Flutter app to display name, email address and a button that opens my G
 - Open an in-app webview to load your GitHub repository page.
 
 # Appetize Link
+https://appetize.io/app/orqvhfyx3emp73erubs6x6dxwi?device=pixel6&osVersion=13.0&scale=75
 
 # Installation
 To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the Flutter installation guide for your platform.
