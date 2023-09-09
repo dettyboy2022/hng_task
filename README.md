@@ -29,4 +29,5 @@ Once Flutter is set up, follow these steps:
      flutter run
 
 # Packages Used
-webview_flutter - Flutter plugin for rendering web pages inside your app.
+- webview_flutter - Flutter plugin for rendering web pages inside your app.
+- flutter_screenutil - Screen adaptation utility for Flutter
